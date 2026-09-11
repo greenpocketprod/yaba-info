@@ -15,11 +15,11 @@ A: Your data is stored only on your device. Export your data regularly and keep 
 A: Yes, completely. YABA requires no internet connection.
 
 **Q: How do I contact you?**  
-Email: support@example.com
+Email: greenpocketprod@gmail.com
 
 ## Report a Bug
 
-If you find a bug or have a feature request, please email us at support@example.com with:
+If you find a bug or have a feature request, please email us at greenpocketprod@gmail.com:
 - What you were doing when the issue occurred
 - What you expected to happen
 - What actually happened
